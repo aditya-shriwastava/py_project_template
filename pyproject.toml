@@ -13,4 +13,4 @@ dependencies = [
 dev = []
 
 [project.scripts]
-autoux = "py_project_template.app:main"
+app = "py_project_template.app:main"
