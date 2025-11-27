@@ -6,4 +6,4 @@ dependencies = [
 ]
 
 [tool.setuptools]
-packages = ["rootplayground"]
+packages = ["py_project_template"]
